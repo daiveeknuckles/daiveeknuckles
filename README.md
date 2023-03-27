@@ -10,10 +10,7 @@
 * 🎬 Subcribe to my [Youtube Channel](https://www.youtube.com/channel/UCseYZyCvk2fwz7ce35Y8G5g)&nbsp;
 
 Hello, my name is Daivee Knuckles, a newbie Software Engineer transitioning from Project Management. 
-My background experience range from Construction to Film Production and Digital Content Creation. I pride myself on being a
-"Professional Student" as this world is ever changing and I am, 
-fortunately, too curious to be left behind. I am currently learning Python and other complimentary skills from other fields like Data Science, AI and Machine Learning.
-I'm looking forward to creating a project that contributes to the great good of humanity.&nbsp;&nbsp;
+My background experience range from Construction to Film Production and Digital Content Creation. I pride myself on being a"Professional Student" as this world is ever changing and I am, fortunately, too curious to be left behind. I am currently learning Python and other complimentary skills from other fields like Data Science, AI and Machine Learning. I'm looking forward to creating a project that contributes to the great good of humanity.&nbsp;&nbsp;
 
 
 
@@ -28,7 +25,7 @@ I'm looking forward to creating a project that contributes to the great good of 
 
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcknuckles)](https://github.com/dcknuckles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiveeknuckles)](https://github.com/daiveeknuckles/github-readme-stats)
   
 <!---
 daiveeknuckles/daiveeknuckles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
